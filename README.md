@@ -18,18 +18,17 @@
     * `SuppFig3.R` - Supplementary Figure 3
 
 Open source software/packages used and their license:
-
-    * R version 4.3.0 (GPL-2 | GPL-3)
-    * ggplot2 3.4.4 (MIT License)
-    * dplyr 1.1.3 (MIT License)
-    * tidyr 1.3.0 (MIT License)
-    * DESeq2 1.41.12 (LGPL (>= 3))
-    * apeglm 1.23.1 (GPL-2)
-    * data.table 1.14.8 (MIT license)
-    * stringr 1.5.0 (MIT license)
-    * ggpubr 0.6.0 (GPL (>= 2))
-    * reshape 0.8.9 (MIT license)
-    * reshape2 1.4.4 (MIT license)
-    * readr 2.1.4 (MIT license)
+* R version 4.3.0 (GPL-2 | GPL-3)
+* ggplot2 3.4.4 (MIT License)
+* dplyr 1.1.3 (MIT License)
+* tidyr 1.3.0 (MIT License)
+* DESeq2 1.41.12 (LGPL (>= 3))
+* apeglm 1.23.1 (GPL-2)
+* data.table 1.14.8 (MIT license)
+* stringr 1.5.0 (MIT license)
+* ggpubr 0.6.0 (GPL (>= 2))
+* reshape 0.8.9 (MIT license)
+* reshape2 1.4.4 (MIT license)
+* readr 2.1.4 (MIT license)
     
 The software/packages can be obtained from the [official R website](https://www.r-project.org/), [The Comprehensive R Archive Network](https://cran.r-project.org/) or [BioConductor](https://www.bioconductor.org/) websites. 
