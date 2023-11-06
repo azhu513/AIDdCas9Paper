@@ -17,7 +17,7 @@
     * `Fig2_SuppFig4.R` - Figure 2 and Supplementary Figure 4
     * `SuppFig3.R` - Supplementary Figure 3
 
-Open source software/packages used and their license:
+Open source software/packages used and their licenses:
 * R version 4.3.0 (GPL-2 | GPL-3)
 * ggplot2 3.4.4 (MIT License)
 * dplyr 1.1.3 (MIT License)
